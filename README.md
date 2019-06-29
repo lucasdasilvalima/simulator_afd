@@ -1,5 +1,5 @@
 # Trabalho LFA – Simulador de AutômatoFinito Determinístico
-## Universidade tecnologica federal do para
+## Universidade Tecnológica Federal do Paraná
 
  1. - O  arquivo  TXTque  representa  o  autômato  deve  seguir  o  formato  de  texto especificado a seguir.
     **1.1** O alfabeto do autômato é fixo: Σ = {0, 1}.  
